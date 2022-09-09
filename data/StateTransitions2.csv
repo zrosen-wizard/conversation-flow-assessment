@@ -1,0 +1,10 @@
+order,start,end
+0,opt-in request,age-gate request
+1,age-gate request,welcome
+1,age-gate request,order summary
+2,order summary,order summary
+2,welcome,order summary
+3,order summary,END
+0,campaign,order summary
+0,campaign,opt-in request
+0,campaign,age-gate request
